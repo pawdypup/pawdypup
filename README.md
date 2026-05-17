@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=pawdypup&color=#f2f1ed&style=plastic&label=TEXT"
+</p>
 
-<!--
-**pawdypup/pawdypup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+  ${\textsf{\color{#fafafa} Things you say and things you do, that they don't understand }}$
+
+    <p align="center">
+   <img src="https://files.catbox.moe/x8cpp1.jpeg"
+
+  </p>
+  <p align="center">
+
+
+  <p align="center"
+   ${\textsf{\color{#fafafa} It's such a shame, always ends the same }}$
+
