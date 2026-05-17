@@ -6,4 +6,5 @@
 
   <p align="center">
   ${\textsf{\color{#fafafa} Things you say and things you do, that they don't understand }}$
-<img src="[link](https://files.catbox.moe/sz40ii.jpeg)">
+
+   <img src="[link](https://files.catbox.moe/sz40ii.jpeg)">
