@@ -3,3 +3,4 @@
 </p>
   <p align="center">
   ${\textsf{\color{#fafafa} Things you say and things you do, that they don't understand }}$
+  my name is ronny, effy, or call me whatever pony i'm wearing ... i have three best friends in the whole wide world!
